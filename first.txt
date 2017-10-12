@@ -1,1 +1,4 @@
-this is my first git commit
+$ Git commit -m "first commit" first.txt
+$ Git push -u origin master
+
+
